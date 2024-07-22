@@ -1,4 +1,4 @@
-# Sikanoko
+# Shikanoko
 
 ↓これを見たので
 
